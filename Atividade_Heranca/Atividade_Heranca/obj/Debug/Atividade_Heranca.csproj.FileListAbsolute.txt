@@ -1,0 +1,6 @@
+C:\Users\digui\source\repos\Atividade_Heranca\Atividade_Heranca\bin\Debug\Atividade_Heranca.exe.config
+C:\Users\digui\source\repos\Atividade_Heranca\Atividade_Heranca\bin\Debug\Atividade_Heranca.exe
+C:\Users\digui\source\repos\Atividade_Heranca\Atividade_Heranca\bin\Debug\Atividade_Heranca.pdb
+C:\Users\digui\source\repos\Atividade_Heranca\Atividade_Heranca\obj\Debug\Atividade_Heranca.csprojAssemblyReference.cache
+C:\Users\digui\source\repos\Atividade_Heranca\Atividade_Heranca\obj\Debug\Atividade_Heranca.exe
+C:\Users\digui\source\repos\Atividade_Heranca\Atividade_Heranca\obj\Debug\Atividade_Heranca.pdb
